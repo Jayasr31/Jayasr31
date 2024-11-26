@@ -3,7 +3,7 @@
 <img align="right" alt ="coding"width="400"src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952unzev2mgbuvce975za69gv2x3oqp8qmu4mgdakdz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasr31&label=Profile%20views&color=0e75b6&style=flat" alt="jayasr31" /> </p>
 
-- 🔭 I’m currently working on **Fare Vista**
+- 🔭 I’m currently working on **Desktop assistant (AIVA) **
 
 - 🌱 I’m currently learning **Frameworks,C++**
 
